@@ -14,3 +14,55 @@
 2025-09-26 09:10:17,902 - INFO - Stored data for SOL: $195.66
 2025-09-26 09:10:17,911 - INFO - Successfully stored data for 8 cryptocurrencies
 2025-09-26 09:10:17,912 - INFO - Data collection completed successfully
+2025-09-26 09:23:55,452 - INFO - Starting cryptocurrency data fetch
+2025-09-26 09:23:55,453 - INFO - Database schema created/updated successfully
+2025-09-26 09:23:55,453 - INFO - Fetching data for 8 cryptocurrencies
+2025-09-26 09:23:55,913 - INFO - Stored data for BTC: $109,541.00
+2025-09-26 09:23:55,913 - INFO - Stored data for BCH: $539.04
+2025-09-26 09:23:55,914 - INFO - Stored data for ADA: $0.78
+2025-09-26 09:23:55,914 - INFO - Stored data for LINK: $20.50
+2025-09-26 09:23:55,914 - INFO - Stored data for ETH: $3,963.83
+2025-09-26 09:23:55,914 - INFO - Stored data for LTC: $102.96
+2025-09-26 09:23:55,914 - INFO - Stored data for DOT: $3.83
+2025-09-26 09:23:55,914 - INFO - Stored data for SOL: $196.05
+2025-09-26 09:23:55,914 - INFO - Successfully stored data for 8 cryptocurrencies
+2025-09-26 09:23:55,914 - INFO - Data collection completed successfully
+2025-09-26 09:24:00,406 - INFO - Starting crypto data scheduler with 5 minute intervals
+2025-09-26 09:24:00,406 - INFO - Monitoring 8 cryptocurrencies
+2025-09-26 09:24:00,406 - INFO - Running initial data fetch
+2025-09-26 09:24:00,406 - INFO - Starting scheduled data fetch
+2025-09-26 09:24:00,406 - INFO - Starting cryptocurrency data fetch
+2025-09-26 09:24:00,406 - INFO - Database schema created/updated successfully
+2025-09-26 09:24:00,406 - INFO - Fetching data for 8 cryptocurrencies
+2025-09-26 09:24:00,623 - INFO - Stored data for BTC: $109,541.00
+2025-09-26 09:24:00,623 - INFO - Stored data for BCH: $539.04
+2025-09-26 09:24:00,623 - INFO - Stored data for ADA: $0.78
+2025-09-26 09:24:00,623 - INFO - Stored data for LINK: $20.50
+2025-09-26 09:24:00,623 - INFO - Stored data for ETH: $3,963.83
+2025-09-26 09:24:00,623 - INFO - Stored data for LTC: $102.96
+2025-09-26 09:24:00,623 - INFO - Stored data for DOT: $3.83
+2025-09-26 09:24:00,623 - INFO - Stored data for SOL: $196.05
+2025-09-26 09:24:00,639 - INFO - Successfully stored data for 8 cryptocurrencies
+2025-09-26 09:24:00,640 - INFO - Data collection completed successfully
+2025-09-26 09:24:00,640 - INFO - Data fetch completed successfully
+2025-09-26 09:24:00,640 - INFO - Updating analytics
+2025-09-26 09:24:00,643 - INFO - Updating analytics for 8 cryptocurrencies
+2025-09-26 09:24:00,643 - INFO - Generating analytics for ADA
+2025-09-26 09:24:00,657 - INFO - Analytics stored for ADA
+2025-09-26 09:24:00,658 - INFO - Generating analytics for BCH
+2025-09-26 09:24:00,660 - INFO - Analytics stored for BCH
+2025-09-26 09:24:00,660 - INFO - Generating analytics for BTC
+2025-09-26 09:24:00,678 - INFO - Analytics stored for BTC
+2025-09-26 09:24:00,678 - INFO - Generating analytics for DOT
+2025-09-26 09:24:00,695 - INFO - Analytics stored for DOT
+2025-09-26 09:24:00,695 - INFO - Generating analytics for ETH
+2025-09-26 09:24:00,706 - INFO - Analytics stored for ETH
+2025-09-26 09:24:00,706 - INFO - Generating analytics for LINK
+2025-09-26 09:24:00,721 - INFO - Analytics stored for LINK
+2025-09-26 09:24:00,737 - INFO - Generating analytics for LTC
+2025-09-26 09:24:00,755 - INFO - Analytics stored for LTC
+2025-09-26 09:24:00,758 - INFO - Generating analytics for SOL
+2025-09-26 09:24:00,773 - INFO - Analytics stored for SOL
+2025-09-26 09:24:00,774 - INFO - Analytics update completed
+2025-09-26 09:24:00,774 - INFO - Scheduler started. Press Ctrl+C to stop.
+2025-09-26 09:24:04,140 - INFO - Scheduler stopped by user
