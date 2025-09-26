@@ -1,0 +1,16 @@
+2025-09-26 09:09:14,998 - INFO - Starting cryptocurrency data fetch
+2025-09-26 09:10:17,435 - INFO - Starting cryptocurrency data fetch
+2025-09-26 09:10:17,450 - INFO - Migrating from old schema to new schema
+2025-09-26 09:10:17,465 - INFO - Migrated 35 records from old schema
+2025-09-26 09:10:17,470 - INFO - Database schema created/updated successfully
+2025-09-26 09:10:17,470 - INFO - Fetching data for 8 cryptocurrencies
+2025-09-26 09:10:17,902 - INFO - Stored data for BTC: $109,369.00
+2025-09-26 09:10:17,902 - INFO - Stored data for BCH: $539.00
+2025-09-26 09:10:17,902 - INFO - Stored data for ADA: $0.77
+2025-09-26 09:10:17,902 - INFO - Stored data for LINK: $20.49
+2025-09-26 09:10:17,902 - INFO - Stored data for ETH: $3,950.95
+2025-09-26 09:10:17,902 - INFO - Stored data for LTC: $102.99
+2025-09-26 09:10:17,902 - INFO - Stored data for DOT: $3.82
+2025-09-26 09:10:17,902 - INFO - Stored data for SOL: $195.66
+2025-09-26 09:10:17,911 - INFO - Successfully stored data for 8 cryptocurrencies
+2025-09-26 09:10:17,912 - INFO - Data collection completed successfully
